@@ -1,1 +1,1 @@
-![alt](./res/arthas.png)
+![Katacoda Logo](./assets/arthas.png)
